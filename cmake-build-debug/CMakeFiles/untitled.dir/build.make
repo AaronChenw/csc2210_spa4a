@@ -166,52 +166,24 @@ CMakeFiles/untitled.dir/event/event.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/event/event.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\event\event.cpp -o CMakeFiles\untitled.dir\event\event.cpp.s
 
-CMakeFiles/untitled.dir/event/hazard.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/event/hazard.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/event/hazard.cpp
-CMakeFiles/untitled.dir/event/hazard.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/untitled.dir/event/hazard.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/event/hazard.cpp.obj -MF CMakeFiles\untitled.dir\event\hazard.cpp.obj.d -o CMakeFiles\untitled.dir\event\hazard.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\event\hazard.cpp
+CMakeFiles/untitled.dir/event/treasure.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/event/treasure.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure.cpp
+CMakeFiles/untitled.dir/event/treasure.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/untitled.dir/event/treasure.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/event/treasure.cpp.obj -MF CMakeFiles\untitled.dir\event\treasure.cpp.obj.d -o CMakeFiles\untitled.dir\event\treasure.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure.cpp
 
-CMakeFiles/untitled.dir/event/hazard.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/event/hazard.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\event\hazard.cpp > CMakeFiles\untitled.dir\event\hazard.cpp.i
+CMakeFiles/untitled.dir/event/treasure.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/event/treasure.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure.cpp > CMakeFiles\untitled.dir\event\treasure.cpp.i
 
-CMakeFiles/untitled.dir/event/hazard.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/event/hazard.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\event\hazard.cpp -o CMakeFiles\untitled.dir\event\hazard.cpp.s
-
-CMakeFiles/untitled.dir/event/wall.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/event/wall.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/event/wall.cpp
-CMakeFiles/untitled.dir/event/wall.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/untitled.dir/event/wall.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/event/wall.cpp.obj -MF CMakeFiles\untitled.dir\event\wall.cpp.obj.d -o CMakeFiles\untitled.dir\event\wall.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\event\wall.cpp
-
-CMakeFiles/untitled.dir/event/wall.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/event/wall.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\event\wall.cpp > CMakeFiles\untitled.dir\event\wall.cpp.i
-
-CMakeFiles/untitled.dir/event/wall.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/event/wall.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\event\wall.cpp -o CMakeFiles\untitled.dir\event\wall.cpp.s
-
-CMakeFiles/untitled.dir/event/treasure/treasure.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/event/treasure/treasure.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure/treasure.cpp
-CMakeFiles/untitled.dir/event/treasure/treasure.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/untitled.dir/event/treasure/treasure.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/event/treasure/treasure.cpp.obj -MF CMakeFiles\untitled.dir\event\treasure\treasure.cpp.obj.d -o CMakeFiles\untitled.dir\event\treasure\treasure.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure\treasure.cpp
-
-CMakeFiles/untitled.dir/event/treasure/treasure.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/event/treasure/treasure.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure\treasure.cpp > CMakeFiles\untitled.dir\event\treasure\treasure.cpp.i
-
-CMakeFiles/untitled.dir/event/treasure/treasure.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/event/treasure/treasure.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure\treasure.cpp -o CMakeFiles\untitled.dir\event\treasure\treasure.cpp.s
+CMakeFiles/untitled.dir/event/treasure.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/event/treasure.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure.cpp -o CMakeFiles\untitled.dir\event\treasure.cpp.s
 
 CMakeFiles/untitled.dir/alive/alive.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/alive/alive.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.cpp
 CMakeFiles/untitled.dir/alive/alive.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/untitled.dir/alive/alive.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/untitled.dir/alive/alive.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/alive/alive.cpp.obj -MF CMakeFiles\untitled.dir\alive\alive.cpp.obj.d -o CMakeFiles\untitled.dir\alive\alive.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\alive\alive.cpp
 
 CMakeFiles/untitled.dir/alive/alive.cpp.i: cmake_force
@@ -222,145 +194,33 @@ CMakeFiles/untitled.dir/alive/alive.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/alive/alive.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\alive\alive.cpp -o CMakeFiles\untitled.dir\alive\alive.cpp.s
 
-CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure/medicine_treasure.cpp
-CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.obj -MF CMakeFiles\untitled.dir\event\treasure\medicine_treasure.cpp.obj.d -o CMakeFiles\untitled.dir\event\treasure\medicine_treasure.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure\medicine_treasure.cpp
+CMakeFiles/untitled.dir/item/weapon.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/item/weapon.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.cpp
+CMakeFiles/untitled.dir/item/weapon.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/untitled.dir/item/weapon.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/item/weapon.cpp.obj -MF CMakeFiles\untitled.dir\item\weapon.cpp.obj.d -o CMakeFiles\untitled.dir\item\weapon.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\item\weapon.cpp
 
-CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure\medicine_treasure.cpp > CMakeFiles\untitled.dir\event\treasure\medicine_treasure.cpp.i
+CMakeFiles/untitled.dir/item/weapon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/item/weapon.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\item\weapon.cpp > CMakeFiles\untitled.dir\item\weapon.cpp.i
 
-CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure\medicine_treasure.cpp -o CMakeFiles\untitled.dir\event\treasure\medicine_treasure.cpp.s
+CMakeFiles/untitled.dir/item/weapon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/item/weapon.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\item\weapon.cpp -o CMakeFiles\untitled.dir\item\weapon.cpp.s
 
-CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure/sword_treasure.cpp
-CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.obj -MF CMakeFiles\untitled.dir\event\treasure\sword_treasure.cpp.obj.d -o CMakeFiles\untitled.dir\event\treasure\sword_treasure.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure\sword_treasure.cpp
+CMakeFiles/untitled.dir/event/monster.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/event/monster.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/event/monster.cpp
+CMakeFiles/untitled.dir/event/monster.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/untitled.dir/event/monster.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/event/monster.cpp.obj -MF CMakeFiles\untitled.dir\event\monster.cpp.obj.d -o CMakeFiles\untitled.dir\event\monster.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\event\monster.cpp
 
-CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure\sword_treasure.cpp > CMakeFiles\untitled.dir\event\treasure\sword_treasure.cpp.i
+CMakeFiles/untitled.dir/event/monster.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/event/monster.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\event\monster.cpp > CMakeFiles\untitled.dir\event\monster.cpp.i
 
-CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure\sword_treasure.cpp -o CMakeFiles\untitled.dir\event\treasure\sword_treasure.cpp.s
-
-CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure/arrow_treasure.cpp
-CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.obj -MF CMakeFiles\untitled.dir\event\treasure\arrow_treasure.cpp.obj.d -o CMakeFiles\untitled.dir\event\treasure\arrow_treasure.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure\arrow_treasure.cpp
-
-CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure\arrow_treasure.cpp > CMakeFiles\untitled.dir\event\treasure\arrow_treasure.cpp.i
-
-CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\event\treasure\arrow_treasure.cpp -o CMakeFiles\untitled.dir\event\treasure\arrow_treasure.cpp.s
-
-CMakeFiles/untitled.dir/item/weapon/weapon.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/item/weapon/weapon.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/weapon.cpp
-CMakeFiles/untitled.dir/item/weapon/weapon.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/untitled.dir/item/weapon/weapon.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/item/weapon/weapon.cpp.obj -MF CMakeFiles\untitled.dir\item\weapon\weapon.cpp.obj.d -o CMakeFiles\untitled.dir\item\weapon\weapon.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\item\weapon\weapon.cpp
-
-CMakeFiles/untitled.dir/item/weapon/weapon.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/item/weapon/weapon.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\item\weapon\weapon.cpp > CMakeFiles\untitled.dir\item\weapon\weapon.cpp.i
-
-CMakeFiles/untitled.dir/item/weapon/weapon.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/item/weapon/weapon.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\item\weapon\weapon.cpp -o CMakeFiles\untitled.dir\item\weapon\weapon.cpp.s
-
-CMakeFiles/untitled.dir/item/medicine.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/item/medicine.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/item/medicine.cpp
-CMakeFiles/untitled.dir/item/medicine.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/untitled.dir/item/medicine.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/item/medicine.cpp.obj -MF CMakeFiles\untitled.dir\item\medicine.cpp.obj.d -o CMakeFiles\untitled.dir\item\medicine.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\item\medicine.cpp
-
-CMakeFiles/untitled.dir/item/medicine.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/item/medicine.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\item\medicine.cpp > CMakeFiles\untitled.dir\item\medicine.cpp.i
-
-CMakeFiles/untitled.dir/item/medicine.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/item/medicine.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\item\medicine.cpp -o CMakeFiles\untitled.dir\item\medicine.cpp.s
-
-CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/melee/melee.cpp
-CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.obj -MF CMakeFiles\untitled.dir\item\weapon\melee\melee.cpp.obj.d -o CMakeFiles\untitled.dir\item\weapon\melee\melee.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\item\weapon\melee\melee.cpp
-
-CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\item\weapon\melee\melee.cpp > CMakeFiles\untitled.dir\item\weapon\melee\melee.cpp.i
-
-CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\item\weapon\melee\melee.cpp -o CMakeFiles\untitled.dir\item\weapon\melee\melee.cpp.s
-
-CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/long_range/long_range.cpp
-CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.obj -MF CMakeFiles\untitled.dir\item\weapon\long_range\long_range.cpp.obj.d -o CMakeFiles\untitled.dir\item\weapon\long_range\long_range.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\item\weapon\long_range\long_range.cpp
-
-CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\item\weapon\long_range\long_range.cpp > CMakeFiles\untitled.dir\item\weapon\long_range\long_range.cpp.i
-
-CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\item\weapon\long_range\long_range.cpp -o CMakeFiles\untitled.dir\item\weapon\long_range\long_range.cpp.s
-
-CMakeFiles/untitled.dir/event/monster/goblin.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/event/monster/goblin.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/event/monster/goblin.cpp
-CMakeFiles/untitled.dir/event/monster/goblin.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/untitled.dir/event/monster/goblin.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/event/monster/goblin.cpp.obj -MF CMakeFiles\untitled.dir\event\monster\goblin.cpp.obj.d -o CMakeFiles\untitled.dir\event\monster\goblin.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\event\monster\goblin.cpp
-
-CMakeFiles/untitled.dir/event/monster/goblin.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/event/monster/goblin.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\event\monster\goblin.cpp > CMakeFiles\untitled.dir\event\monster\goblin.cpp.i
-
-CMakeFiles/untitled.dir/event/monster/goblin.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/event/monster/goblin.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\event\monster\goblin.cpp -o CMakeFiles\untitled.dir\event\monster\goblin.cpp.s
-
-CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/event/monster/lakshmikanta.cpp
-CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.obj -MF CMakeFiles\untitled.dir\event\monster\lakshmikanta.cpp.obj.d -o CMakeFiles\untitled.dir\event\monster\lakshmikanta.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\event\monster\lakshmikanta.cpp
-
-CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\event\monster\lakshmikanta.cpp > CMakeFiles\untitled.dir\event\monster\lakshmikanta.cpp.i
-
-CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\event\monster\lakshmikanta.cpp -o CMakeFiles\untitled.dir\event\monster\lakshmikanta.cpp.s
-
-CMakeFiles/untitled.dir/event/monster/monster.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/event/monster/monster.cpp.obj: C:/Users/eds/CLionProjects/csc2210_spa4a/event/monster/monster.cpp
-CMakeFiles/untitled.dir/event/monster/monster.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/untitled.dir/event/monster/monster.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/event/monster/monster.cpp.obj -MF CMakeFiles\untitled.dir\event\monster\monster.cpp.obj.d -o CMakeFiles\untitled.dir\event\monster\monster.cpp.obj -c C:\Users\eds\CLionProjects\csc2210_spa4a\event\monster\monster.cpp
-
-CMakeFiles/untitled.dir/event/monster/monster.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/event/monster/monster.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\eds\CLionProjects\csc2210_spa4a\event\monster\monster.cpp > CMakeFiles\untitled.dir\event\monster\monster.cpp.i
-
-CMakeFiles/untitled.dir/event/monster/monster.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/event/monster/monster.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\event\monster\monster.cpp -o CMakeFiles\untitled.dir\event\monster\monster.cpp.s
+CMakeFiles/untitled.dir/event/monster.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/event/monster.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\eds\CLionProjects\csc2210_spa4a\event\monster.cpp -o CMakeFiles\untitled.dir\event\monster.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
@@ -371,20 +231,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/menu/game_menu.cpp.obj" \
 "CMakeFiles/untitled.dir/map/map.cpp.obj" \
 "CMakeFiles/untitled.dir/event/event.cpp.obj" \
-"CMakeFiles/untitled.dir/event/hazard.cpp.obj" \
-"CMakeFiles/untitled.dir/event/wall.cpp.obj" \
-"CMakeFiles/untitled.dir/event/treasure/treasure.cpp.obj" \
+"CMakeFiles/untitled.dir/event/treasure.cpp.obj" \
 "CMakeFiles/untitled.dir/alive/alive.cpp.obj" \
-"CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.obj" \
-"CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.obj" \
-"CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.obj" \
-"CMakeFiles/untitled.dir/item/weapon/weapon.cpp.obj" \
-"CMakeFiles/untitled.dir/item/medicine.cpp.obj" \
-"CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.obj" \
-"CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.obj" \
-"CMakeFiles/untitled.dir/event/monster/goblin.cpp.obj" \
-"CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.obj" \
-"CMakeFiles/untitled.dir/event/monster/monster.cpp.obj"
+"CMakeFiles/untitled.dir/item/weapon.cpp.obj" \
+"CMakeFiles/untitled.dir/event/monster.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -396,25 +246,15 @@ untitled.exe: CMakeFiles/untitled.dir/menu/main_menu.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/menu/game_menu.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/map/map.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/event/event.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/event/hazard.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/event/wall.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/event/treasure/treasure.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/event/treasure.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/alive/alive.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/item/weapon/weapon.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/item/medicine.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/event/monster/goblin.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/event/monster/monster.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/item/weapon.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/event/monster.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linkLibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\eds\CLionProjects\csc2210_spa4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

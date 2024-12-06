@@ -8,6 +8,7 @@
 #include <iostream>
 
 class player;
+
 class event {
 public:
   virtual ~event() = default;
@@ -23,7 +24,36 @@ protected:
 
 };
 
-
-
-
 #endif //EVENT_H
+
+#ifndef HAZARD_H
+#define HAZARD_H
+
+class hazard : public event{
+public:
+  hazard():event() {};
+  // Show @
+  void show_on_map() override;
+  void interaction(player* p) override;
+protected:
+};
+
+
+#endif //HAZARD_H
+
+#ifndef WALL_H
+#define WALL_H
+
+class wall :public event{
+public:
+  wall(): event() {};
+  // Show !
+  void show_on_map() override;
+  bool can_go() override {return false;};
+protected:
+
+};
+
+
+
+#endif //WALL_H

@@ -4,7 +4,7 @@
 
 #include "player.h"
 
-#include "../item/weapon/weapon.h"
+#include "../item/weapon.h"
 
 
 void player::set_weapon(weapon* wp) {

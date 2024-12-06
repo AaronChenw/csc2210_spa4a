@@ -5,11 +5,8 @@
 #include "map.h"
 #include <random>
 
-#include "../event/monster/goblin.h"
-#include "../event/monster/lakshmikanta.h"
-#include "../event/treasure/arrow_treasure.h"
-#include "../event/treasure/medicine_treasure.h"
-#include "../event/treasure/sword_treasure.h"
+#include "../event/monster.h"
+#include "../event/treasure.h"
 
 /*
  * Generate the map

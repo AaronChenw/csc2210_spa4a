@@ -106,6 +106,7 @@ CMakeFiles/untitled.dir/item/item.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ranges_util.h \
+ C:/Users/eds/CLionProjects/csc2210_spa4a/player/player.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
@@ -150,4 +151,5 @@ CMakeFiles/untitled.dir/item/item.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
- C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
+ C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.h

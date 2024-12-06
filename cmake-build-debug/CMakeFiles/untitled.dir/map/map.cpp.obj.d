@@ -152,27 +152,15 @@ CMakeFiles/untitled.dir/map/map.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/hazard.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/wall.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/monster/monster.h \
+ C:/Users/eds/CLionProjects/csc2210_spa4a/event/monster.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+ C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.h \
+ C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/menu/menu.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure/sword_treasure.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure/treasure.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/sword.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/melee/melee.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/weapon.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure/medicine_treasure.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/medicine.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
+ C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/random \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/x86_64-w64-mingw32/include/math.h \
@@ -210,13 +198,4 @@ CMakeFiles/untitled.dir/map/map.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
- C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/monster/goblin.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/monster/monster.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/craw.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/monster/lakshmikanta.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/magic.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/long_range/long_range.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/weapon.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure/arrow_treasure.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/arrow.h
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h

@@ -4,9 +4,9 @@
 
 #include "monster.h"
 
-#include "../../item/weapon/weapon.h"
-#include "../../map/map.h"
-#include "../../player/player.h"
+#include "../item/weapon.h"
+#include "../map/map.h"
+#include "../player/player.h"
 
 // Battle menu
 void monster::interaction(player* p) {
@@ -65,4 +65,19 @@ void monster::menu_describe() {
   std::cout << "Type \"status\" to check status"<< std::endl;
 
 
+};
+void goblin::show_on_map() {
+  if (this->is_dead()) {
+    std::cout << '#';
+  }else {
+    std::cout << '$';
+  }
+}
+
+void lakshmikanta::show_on_map() {
+  if (this->is_dead()) {
+    std::cout << '#';
+  }else {
+    std::cout << '~';
+  }
 };

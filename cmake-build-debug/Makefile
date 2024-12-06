@@ -176,221 +176,53 @@ event/event.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/event.cpp.s
 .PHONY : event/event.cpp.s
 
-event/hazard.obj: event/hazard.cpp.obj
-.PHONY : event/hazard.obj
+event/monster.obj: event/monster.cpp.obj
+.PHONY : event/monster.obj
 
 # target to build an object file
-event/hazard.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/hazard.cpp.obj
-.PHONY : event/hazard.cpp.obj
+event/monster.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/monster.cpp.obj
+.PHONY : event/monster.cpp.obj
 
-event/hazard.i: event/hazard.cpp.i
-.PHONY : event/hazard.i
+event/monster.i: event/monster.cpp.i
+.PHONY : event/monster.i
 
 # target to preprocess a source file
-event/hazard.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/hazard.cpp.i
-.PHONY : event/hazard.cpp.i
+event/monster.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/monster.cpp.i
+.PHONY : event/monster.cpp.i
 
-event/hazard.s: event/hazard.cpp.s
-.PHONY : event/hazard.s
+event/monster.s: event/monster.cpp.s
+.PHONY : event/monster.s
 
 # target to generate assembly for a file
-event/hazard.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/hazard.cpp.s
-.PHONY : event/hazard.cpp.s
+event/monster.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/monster.cpp.s
+.PHONY : event/monster.cpp.s
 
-event/monster/goblin.obj: event/monster/goblin.cpp.obj
-.PHONY : event/monster/goblin.obj
+event/treasure.obj: event/treasure.cpp.obj
+.PHONY : event/treasure.obj
 
 # target to build an object file
-event/monster/goblin.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/monster/goblin.cpp.obj
-.PHONY : event/monster/goblin.cpp.obj
+event/treasure.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure.cpp.obj
+.PHONY : event/treasure.cpp.obj
 
-event/monster/goblin.i: event/monster/goblin.cpp.i
-.PHONY : event/monster/goblin.i
-
-# target to preprocess a source file
-event/monster/goblin.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/monster/goblin.cpp.i
-.PHONY : event/monster/goblin.cpp.i
-
-event/monster/goblin.s: event/monster/goblin.cpp.s
-.PHONY : event/monster/goblin.s
-
-# target to generate assembly for a file
-event/monster/goblin.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/monster/goblin.cpp.s
-.PHONY : event/monster/goblin.cpp.s
-
-event/monster/lakshmikanta.obj: event/monster/lakshmikanta.cpp.obj
-.PHONY : event/monster/lakshmikanta.obj
-
-# target to build an object file
-event/monster/lakshmikanta.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.obj
-.PHONY : event/monster/lakshmikanta.cpp.obj
-
-event/monster/lakshmikanta.i: event/monster/lakshmikanta.cpp.i
-.PHONY : event/monster/lakshmikanta.i
+event/treasure.i: event/treasure.cpp.i
+.PHONY : event/treasure.i
 
 # target to preprocess a source file
-event/monster/lakshmikanta.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.i
-.PHONY : event/monster/lakshmikanta.cpp.i
+event/treasure.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure.cpp.i
+.PHONY : event/treasure.cpp.i
 
-event/monster/lakshmikanta.s: event/monster/lakshmikanta.cpp.s
-.PHONY : event/monster/lakshmikanta.s
-
-# target to generate assembly for a file
-event/monster/lakshmikanta.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/monster/lakshmikanta.cpp.s
-.PHONY : event/monster/lakshmikanta.cpp.s
-
-event/monster/monster.obj: event/monster/monster.cpp.obj
-.PHONY : event/monster/monster.obj
-
-# target to build an object file
-event/monster/monster.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/monster/monster.cpp.obj
-.PHONY : event/monster/monster.cpp.obj
-
-event/monster/monster.i: event/monster/monster.cpp.i
-.PHONY : event/monster/monster.i
-
-# target to preprocess a source file
-event/monster/monster.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/monster/monster.cpp.i
-.PHONY : event/monster/monster.cpp.i
-
-event/monster/monster.s: event/monster/monster.cpp.s
-.PHONY : event/monster/monster.s
+event/treasure.s: event/treasure.cpp.s
+.PHONY : event/treasure.s
 
 # target to generate assembly for a file
-event/monster/monster.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/monster/monster.cpp.s
-.PHONY : event/monster/monster.cpp.s
-
-event/treasure/arrow_treasure.obj: event/treasure/arrow_treasure.cpp.obj
-.PHONY : event/treasure/arrow_treasure.obj
-
-# target to build an object file
-event/treasure/arrow_treasure.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.obj
-.PHONY : event/treasure/arrow_treasure.cpp.obj
-
-event/treasure/arrow_treasure.i: event/treasure/arrow_treasure.cpp.i
-.PHONY : event/treasure/arrow_treasure.i
-
-# target to preprocess a source file
-event/treasure/arrow_treasure.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.i
-.PHONY : event/treasure/arrow_treasure.cpp.i
-
-event/treasure/arrow_treasure.s: event/treasure/arrow_treasure.cpp.s
-.PHONY : event/treasure/arrow_treasure.s
-
-# target to generate assembly for a file
-event/treasure/arrow_treasure.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.s
-.PHONY : event/treasure/arrow_treasure.cpp.s
-
-event/treasure/medicine_treasure.obj: event/treasure/medicine_treasure.cpp.obj
-.PHONY : event/treasure/medicine_treasure.obj
-
-# target to build an object file
-event/treasure/medicine_treasure.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.obj
-.PHONY : event/treasure/medicine_treasure.cpp.obj
-
-event/treasure/medicine_treasure.i: event/treasure/medicine_treasure.cpp.i
-.PHONY : event/treasure/medicine_treasure.i
-
-# target to preprocess a source file
-event/treasure/medicine_treasure.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.i
-.PHONY : event/treasure/medicine_treasure.cpp.i
-
-event/treasure/medicine_treasure.s: event/treasure/medicine_treasure.cpp.s
-.PHONY : event/treasure/medicine_treasure.s
-
-# target to generate assembly for a file
-event/treasure/medicine_treasure.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure/medicine_treasure.cpp.s
-.PHONY : event/treasure/medicine_treasure.cpp.s
-
-event/treasure/sword_treasure.obj: event/treasure/sword_treasure.cpp.obj
-.PHONY : event/treasure/sword_treasure.obj
-
-# target to build an object file
-event/treasure/sword_treasure.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.obj
-.PHONY : event/treasure/sword_treasure.cpp.obj
-
-event/treasure/sword_treasure.i: event/treasure/sword_treasure.cpp.i
-.PHONY : event/treasure/sword_treasure.i
-
-# target to preprocess a source file
-event/treasure/sword_treasure.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.i
-.PHONY : event/treasure/sword_treasure.cpp.i
-
-event/treasure/sword_treasure.s: event/treasure/sword_treasure.cpp.s
-.PHONY : event/treasure/sword_treasure.s
-
-# target to generate assembly for a file
-event/treasure/sword_treasure.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure/sword_treasure.cpp.s
-.PHONY : event/treasure/sword_treasure.cpp.s
-
-event/treasure/treasure.obj: event/treasure/treasure.cpp.obj
-.PHONY : event/treasure/treasure.obj
-
-# target to build an object file
-event/treasure/treasure.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure/treasure.cpp.obj
-.PHONY : event/treasure/treasure.cpp.obj
-
-event/treasure/treasure.i: event/treasure/treasure.cpp.i
-.PHONY : event/treasure/treasure.i
-
-# target to preprocess a source file
-event/treasure/treasure.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure/treasure.cpp.i
-.PHONY : event/treasure/treasure.cpp.i
-
-event/treasure/treasure.s: event/treasure/treasure.cpp.s
-.PHONY : event/treasure/treasure.s
-
-# target to generate assembly for a file
-event/treasure/treasure.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure/treasure.cpp.s
-.PHONY : event/treasure/treasure.cpp.s
-
-event/wall.obj: event/wall.cpp.obj
-.PHONY : event/wall.obj
-
-# target to build an object file
-event/wall.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/wall.cpp.obj
-.PHONY : event/wall.cpp.obj
-
-event/wall.i: event/wall.cpp.i
-.PHONY : event/wall.i
-
-# target to preprocess a source file
-event/wall.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/wall.cpp.i
-.PHONY : event/wall.cpp.i
-
-event/wall.s: event/wall.cpp.s
-.PHONY : event/wall.s
-
-# target to generate assembly for a file
-event/wall.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/wall.cpp.s
-.PHONY : event/wall.cpp.s
+event/treasure.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/event/treasure.cpp.s
+.PHONY : event/treasure.cpp.s
 
 item/item.obj: item/item.cpp.obj
 .PHONY : item/item.obj
@@ -416,101 +248,29 @@ item/item.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/item.cpp.s
 .PHONY : item/item.cpp.s
 
-item/medicine.obj: item/medicine.cpp.obj
-.PHONY : item/medicine.obj
+item/weapon.obj: item/weapon.cpp.obj
+.PHONY : item/weapon.obj
 
 # target to build an object file
-item/medicine.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/medicine.cpp.obj
-.PHONY : item/medicine.cpp.obj
+item/weapon.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/weapon.cpp.obj
+.PHONY : item/weapon.cpp.obj
 
-item/medicine.i: item/medicine.cpp.i
-.PHONY : item/medicine.i
-
-# target to preprocess a source file
-item/medicine.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/medicine.cpp.i
-.PHONY : item/medicine.cpp.i
-
-item/medicine.s: item/medicine.cpp.s
-.PHONY : item/medicine.s
-
-# target to generate assembly for a file
-item/medicine.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/medicine.cpp.s
-.PHONY : item/medicine.cpp.s
-
-item/weapon/long_range/long_range.obj: item/weapon/long_range/long_range.cpp.obj
-.PHONY : item/weapon/long_range/long_range.obj
-
-# target to build an object file
-item/weapon/long_range/long_range.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.obj
-.PHONY : item/weapon/long_range/long_range.cpp.obj
-
-item/weapon/long_range/long_range.i: item/weapon/long_range/long_range.cpp.i
-.PHONY : item/weapon/long_range/long_range.i
+item/weapon.i: item/weapon.cpp.i
+.PHONY : item/weapon.i
 
 # target to preprocess a source file
-item/weapon/long_range/long_range.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.i
-.PHONY : item/weapon/long_range/long_range.cpp.i
+item/weapon.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/weapon.cpp.i
+.PHONY : item/weapon.cpp.i
 
-item/weapon/long_range/long_range.s: item/weapon/long_range/long_range.cpp.s
-.PHONY : item/weapon/long_range/long_range.s
-
-# target to generate assembly for a file
-item/weapon/long_range/long_range.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/weapon/long_range/long_range.cpp.s
-.PHONY : item/weapon/long_range/long_range.cpp.s
-
-item/weapon/melee/melee.obj: item/weapon/melee/melee.cpp.obj
-.PHONY : item/weapon/melee/melee.obj
-
-# target to build an object file
-item/weapon/melee/melee.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.obj
-.PHONY : item/weapon/melee/melee.cpp.obj
-
-item/weapon/melee/melee.i: item/weapon/melee/melee.cpp.i
-.PHONY : item/weapon/melee/melee.i
-
-# target to preprocess a source file
-item/weapon/melee/melee.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.i
-.PHONY : item/weapon/melee/melee.cpp.i
-
-item/weapon/melee/melee.s: item/weapon/melee/melee.cpp.s
-.PHONY : item/weapon/melee/melee.s
+item/weapon.s: item/weapon.cpp.s
+.PHONY : item/weapon.s
 
 # target to generate assembly for a file
-item/weapon/melee/melee.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/weapon/melee/melee.cpp.s
-.PHONY : item/weapon/melee/melee.cpp.s
-
-item/weapon/weapon.obj: item/weapon/weapon.cpp.obj
-.PHONY : item/weapon/weapon.obj
-
-# target to build an object file
-item/weapon/weapon.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/weapon/weapon.cpp.obj
-.PHONY : item/weapon/weapon.cpp.obj
-
-item/weapon/weapon.i: item/weapon/weapon.cpp.i
-.PHONY : item/weapon/weapon.i
-
-# target to preprocess a source file
-item/weapon/weapon.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/weapon/weapon.cpp.i
-.PHONY : item/weapon/weapon.cpp.i
-
-item/weapon/weapon.s: item/weapon/weapon.cpp.s
-.PHONY : item/weapon/weapon.s
-
-# target to generate assembly for a file
-item/weapon/weapon.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/weapon/weapon.cpp.s
-.PHONY : item/weapon/weapon.cpp.s
+item/weapon.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/item/weapon.cpp.s
+.PHONY : item/weapon.cpp.s
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -647,48 +407,18 @@ help:
 	@echo ... event/event.obj
 	@echo ... event/event.i
 	@echo ... event/event.s
-	@echo ... event/hazard.obj
-	@echo ... event/hazard.i
-	@echo ... event/hazard.s
-	@echo ... event/monster/goblin.obj
-	@echo ... event/monster/goblin.i
-	@echo ... event/monster/goblin.s
-	@echo ... event/monster/lakshmikanta.obj
-	@echo ... event/monster/lakshmikanta.i
-	@echo ... event/monster/lakshmikanta.s
-	@echo ... event/monster/monster.obj
-	@echo ... event/monster/monster.i
-	@echo ... event/monster/monster.s
-	@echo ... event/treasure/arrow_treasure.obj
-	@echo ... event/treasure/arrow_treasure.i
-	@echo ... event/treasure/arrow_treasure.s
-	@echo ... event/treasure/medicine_treasure.obj
-	@echo ... event/treasure/medicine_treasure.i
-	@echo ... event/treasure/medicine_treasure.s
-	@echo ... event/treasure/sword_treasure.obj
-	@echo ... event/treasure/sword_treasure.i
-	@echo ... event/treasure/sword_treasure.s
-	@echo ... event/treasure/treasure.obj
-	@echo ... event/treasure/treasure.i
-	@echo ... event/treasure/treasure.s
-	@echo ... event/wall.obj
-	@echo ... event/wall.i
-	@echo ... event/wall.s
+	@echo ... event/monster.obj
+	@echo ... event/monster.i
+	@echo ... event/monster.s
+	@echo ... event/treasure.obj
+	@echo ... event/treasure.i
+	@echo ... event/treasure.s
 	@echo ... item/item.obj
 	@echo ... item/item.i
 	@echo ... item/item.s
-	@echo ... item/medicine.obj
-	@echo ... item/medicine.i
-	@echo ... item/medicine.s
-	@echo ... item/weapon/long_range/long_range.obj
-	@echo ... item/weapon/long_range/long_range.i
-	@echo ... item/weapon/long_range/long_range.s
-	@echo ... item/weapon/melee/melee.obj
-	@echo ... item/weapon/melee/melee.i
-	@echo ... item/weapon/melee/melee.s
-	@echo ... item/weapon/weapon.obj
-	@echo ... item/weapon/weapon.i
-	@echo ... item/weapon/weapon.s
+	@echo ... item/weapon.obj
+	@echo ... item/weapon.i
+	@echo ... item/weapon.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -154,9 +154,7 @@ CMakeFiles/untitled.dir/event/treasure/arrow_treasure.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
  C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/arrow.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/long_range/long_range.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/weapon.h \
+ C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/player/player.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.h

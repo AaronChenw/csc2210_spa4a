@@ -6,11 +6,8 @@
 #define MAP_H
 
 #include "../event/event.h"
-#include "../event/hazard.h"
-#include "../event/wall.h"
-#include "../event/monster/monster.h"
-#include "../event/treasure/sword_treasure.h"
-#include "../event/treasure/medicine_treasure.h"
+#include "../event/monster.h"
+#include "../event/treasure.h"
 /*
  * The class that handles all positional changes.
  */

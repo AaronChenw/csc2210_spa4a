@@ -157,24 +157,12 @@ CMakeFiles/untitled.dir/menu/main_menu.cpp.obj: \
  C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/map/map.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/hazard.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/wall.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/monster/monster.h \
+ C:/Users/eds/CLionProjects/csc2210_spa4a/event/monster.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+ C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.h \
+ C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/menu/menu.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure/sword_treasure.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure/treasure.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/sword.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/melee/melee.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon/weapon.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure/medicine_treasure.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/medicine.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h
+ C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure.h
