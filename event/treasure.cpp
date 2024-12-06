@@ -25,6 +25,7 @@ void arrow_treasure::interaction(player *p) {
     std::cout<<"You open a box and get some arrow. ";
     p->set_weapon(dynamic_cast<weapon *>(this->its));
     is_picked = true;
+    delete its;
   }
   std::cout << std::endl;
 }

@@ -165,4 +165,5 @@ CMakeFiles/untitled.dir/event/monster.cpp.obj: \
  C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/player/player.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.h
+ C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.h \
+ C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.h

@@ -16,7 +16,9 @@ class map;
 class monster : public event, public alive{
 public:
   monster(const std::string& name,weapon* w,int hp,map* m):alive(name,hp),w{w},ma{m} {};
-  ~monster() override {}
+  ~monster() override {
+    delete w;
+  }
   bool can_go() override{return true;};
   void interaction(player* p) override;
   weapon* get_weapon() const override;

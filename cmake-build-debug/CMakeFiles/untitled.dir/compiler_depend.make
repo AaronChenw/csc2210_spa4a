@@ -306,6 +306,8 @@ CMakeFiles/untitled.dir/event/event.cpp.obj: C:/Users/eds/CLionProjects/csc2210_
   C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
   C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
   C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.h \
+  C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
+  C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.h \
   C:/Users/eds/CLionProjects/csc2210_spa4a/player/player.h \
   C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h
 
@@ -784,6 +786,8 @@ CMakeFiles/untitled.dir/item/item.cpp.obj: C:/Users/eds/CLionProjects/csc2210_sp
   C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
   C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
   C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.h \
+  C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
+  C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.h \
   C:/Users/eds/CLionProjects/csc2210_spa4a/player/player.h \
   C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h
 
@@ -939,6 +943,7 @@ CMakeFiles/untitled.dir/item/weapon.cpp.obj: C:/Users/eds/CLionProjects/csc2210_
   C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
   C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
   C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.h \
+  C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.h \
   C:/Users/eds/CLionProjects/csc2210_spa4a/player/player.h \
   C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
   C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.h
@@ -2133,6 +2138,12 @@ C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.h:
 
 C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.cpp:
 
+C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h:
+
+C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h:
+
+C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.h:
+
 C:/Users/eds/CLionProjects/csc2210_spa4a/player/player.h:
 
 C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h:
@@ -2146,12 +2157,6 @@ C:/Users/eds/CLionProjects/csc2210_spa4a/event/monster.h:
 C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/random:
 
 C:/Users/eds/CLionProjects/csc2210_spa4a/event/treasure.h:
-
-C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h:
-
-C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h:
-
-C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.h:
 
 C:/Users/eds/CLionProjects/csc2210_spa4a/map/map.h:
 

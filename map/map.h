@@ -23,7 +23,9 @@ public:
     map_generator();
   }
 
-  ~map(){};
+  ~map() {
+   delete c;
+  };
   /*
    * Generate a map randomly that fit the col and row.
    */

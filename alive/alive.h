@@ -14,7 +14,9 @@ class weapon;
 class alive {
 public:
   alive(const std::string &nn, int hp):name(nn),hit_point(hp){}
-  ~alive(){}
+  ~alive() {
+   name.erase();
+  }
   /*
    * Check if the player or the monsters are dead.
    */

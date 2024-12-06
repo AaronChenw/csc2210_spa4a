@@ -154,13 +154,14 @@ CMakeFiles/untitled.dir/menu/game_menu.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
  C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.h \
+ C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.h \
+ C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/map/map.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/event/monster.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/item/weapon.h \
- C:/Users/eds/CLionProjects/csc2210_spa4a/item/item.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/event/event.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/alive/alive.h \
  C:/Users/eds/CLionProjects/csc2210_spa4a/menu/menu.h \

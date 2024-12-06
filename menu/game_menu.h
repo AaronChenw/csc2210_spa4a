@@ -27,7 +27,10 @@ public:
   /*
    * Descructor
    */
-  ~game_menu() override {};
+  ~game_menu() override {
+    delete g1;
+    delete m;
+  };
   /*
    * Print the descriptions on the terminal.
    */

@@ -6,7 +6,7 @@
 #define PLAYER_H
 #include <iostream>
 #include "../alive/alive.h"
-
+#include "../item/weapon.h"
 class item;
 
 class player : public alive {

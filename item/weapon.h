@@ -20,7 +20,9 @@ public:
    * Init a new weapon with the attack point.
    */
   weapon(const int a): ap(a){};
-
+ ~weapon() {
+  name.erase();
+ }
   void benefit_player(player* p) override;
   /*
    * The attack point will be different based on the opponent's weapon.
@@ -143,8 +145,6 @@ public:
  magic():long_range(6) {
   name = std::string("magic");
  };
- ~magic(){};
-
 };
 
 
@@ -162,7 +162,6 @@ public:
  arrow(): long_range(5) {
   name = std::string("arrow");
  };
- ~arrow()override{};
 };
 
 

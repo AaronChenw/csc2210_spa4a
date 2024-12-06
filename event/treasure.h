@@ -14,6 +14,8 @@ class player;
 class treasure : public event{
 public:
   bool can_go() override;
+  ~treasure() {};
+
 protected:
   item* its = nullptr;
   bool is_picked = false;
@@ -29,7 +31,6 @@ public:
   arrow_treasure() {
     its = new arrow();
   };
-  ~arrow_treasure() override{};
   // Unpicked: =
   void show_on_map() override;
   void interaction(player* p) override;
@@ -51,7 +52,6 @@ public:
   medicine_treasure():treasure() {
     its = new medicine();
   };
-  ~medicine_treasure() override {}
   // Unpicked: ^
   void show_on_map() override;
   void interaction(player* p) override;
@@ -71,7 +71,6 @@ public:
   sword_treasure():treasure() {
     its = new sword();
   };
-  ~sword_treasure() override {}
   // Unpicked: -
   void show_on_map() override;
   void interaction(player* p) override;
