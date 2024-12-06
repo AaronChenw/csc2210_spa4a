@@ -1,6 +1,7 @@
 Wumpus Hunt
 
 Author: Wangming Chen
+Game Objective: Kill all monster to win.
 C++ Version: CXX_STANDARD 20
 Build Tool: cmake, ninja
 Building Process:
