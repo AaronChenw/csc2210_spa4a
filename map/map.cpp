@@ -119,7 +119,8 @@ int map::get_monster_num() const {
 
 bool map::is_won() const {
   if (monster_num < 1) {
-    std::cout << "You won!." << std::endl;
+    std::cout << "You win!." << std::endl;
+    std::cout << "Enter something to go back to main menu." << std::endl;
     return true;
   }else {
     return false;
