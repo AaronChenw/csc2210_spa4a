@@ -6,8 +6,8 @@
 
 using namespace std;
 void game_menu::menu_describe() {
-  std::cout << "Type \"help\" for hint"<< std::endl;
-  std::cout << "Type \"status\" to check status"<< std::endl;
+  std::cout << "Type \"help\" for hint."<< std::endl;
+  std::cout << "Type \"status\" to check status."<< std::endl;
   std::cout << "Type \"map\" to show the map."<< std::endl;
   std::cout << "Type \"exit\" to go back to the main menu." << std::endl;
   std::cout << "map: $: goblin, ~: lakshmikanta, @: hazard, !: wall, -: sword treasure, ";

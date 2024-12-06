@@ -15,7 +15,7 @@ public:
   /*
    *Init the medicine with the gained hit point.
    */
-  medicine():eff(100) {};
+  medicine():eff(40) {};
   ~medicine(){};
   /*The medicine will let the player gain hit point. */
   void benefit_player(player* p) override;

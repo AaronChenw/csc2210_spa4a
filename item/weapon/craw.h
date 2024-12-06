@@ -11,7 +11,7 @@
  */
 class craw final :public melee{
   public:
-  craw():melee(3) {
+  craw():melee(4) {
     name = std::string("craw");
   };
   ~craw(){};

@@ -11,7 +11,7 @@
  */
 class arrow final : public long_range{
 public:
-  arrow(): long_range(6) {
+  arrow(): long_range(5) {
     name = std::string("arrow");
   };
   ~arrow()override{};

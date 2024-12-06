@@ -10,7 +10,7 @@
 
 class lakshmikanta final : public monster{
 public:
-  lakshmikanta(map* p): monster("lakshmikanta",new magic(),10,p) {
+  lakshmikanta(map* p): monster("lakshmikanta",new magic(),20,p) {
   }
   ~lakshmikanta()override {};
   // alive: ~

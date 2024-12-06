@@ -13,7 +13,7 @@
  */
 class goblin final : public monster{
 public:
-  goblin(map* m) : monster("goblin",new craw(),10,m) {
+  goblin(map* m) : monster("goblin",new craw(),15,m) {
   };
   ~goblin() override {};
   // alive: $

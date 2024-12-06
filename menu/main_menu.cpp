@@ -8,10 +8,9 @@
 using namespace std;
 
 void main_menu::menu_describe() {
-  std::cout << "Type \"help\" for hint"<< std::endl;
+  std::cout << "Type \"help\" for hint."<< std::endl;
   std::cout << "Type \"start\" to start the player."<< std::endl;
   std::cout << "Type \"exit\" to go back to the main menu." << endl;
-
 
 };
 void main_menu::menu_loop() {
