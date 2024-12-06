@@ -4,6 +4,7 @@
 
 #ifndef ITEM_H
 #define ITEM_H
+#include <iostream>
 #include <string>
 
 
@@ -19,7 +20,9 @@ public:
    * The item will benefit the player ion some way.
    */
   virtual void benefit_player(player* p)=0;
-  protected:
+protected:
+  // For debugging.
+  bool dbg = false;
 
 };
 
@@ -38,11 +41,14 @@ public:
   /*
    *Init the medicine with the gained hit point.
    */
-  medicine():eff(40) {};
+  medicine():eff(40) {
+    if (dbg) {
+      std::cout << "Medicine add 40 hp. "<<std:: endl;
+    }
+  };
   ~medicine(){};
   /*The medicine will let the player gain hit point. */
   void benefit_player(player* p) override;
-
 private:
   int eff;
 };

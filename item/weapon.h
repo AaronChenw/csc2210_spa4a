@@ -21,6 +21,9 @@ public:
    */
   weapon(const int a): ap(a){};
  ~weapon() {
+  if (dbg) {
+   std::cout << "Weapon" << name << " erased. " <<std:: endl;
+  }
   name.erase();
  }
   void benefit_player(player* p) override;
