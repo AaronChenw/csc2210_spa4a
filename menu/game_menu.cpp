@@ -33,6 +33,9 @@ void game_menu::menu_loop() {
   }
 };
 void game_menu::menu_opts(const std::string &s){
+  if (dbg) {
+    cout << "game menu: menu opt" << endl;
+  }
   if (s == "status") {
     g1->print_status();
     cout << "Monster number: " << m->get_monster_num() << endl;

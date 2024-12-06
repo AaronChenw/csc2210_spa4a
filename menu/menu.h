@@ -9,6 +9,7 @@
 
 class menu {
 public:
+ menu(){}
  /*
   * Descructor.
   */
@@ -25,8 +26,10 @@ public:
    * Parse and execute the menu options.
    */
   virtual void menu_opts(const std::string &s) =0;
-private:
 
+ protected:
+ // For debug the menu.
+  bool dbg = false;
 };
 
 

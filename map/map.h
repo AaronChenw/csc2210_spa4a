@@ -20,7 +20,10 @@ public:
   map(const int col, const int row) {
     col_num = col;
     row_num = row;
+
     map_generator();
+   // for debugging
+   dbg = false;
   }
 
   ~map() {
@@ -86,7 +89,8 @@ private:
   int xx = 0;
  // Track the alive monster number on the map.
   int monster_num = 0;
-
+ // For debugging the map
+ bool dbg = false;
 };
 
 

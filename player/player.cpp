@@ -8,8 +8,14 @@
 
 
 void player::set_weapon(weapon* wp) {
+  if (dbg) {
+    std::cout << "Weapon picked!" << std::endl;
+  }
   if (w != nullptr) {
     delete w;
+    if (dbg) {
+      std::cout << "Old weapon deleted!" << std::endl;
+    }
   }
   w = wp;
 }

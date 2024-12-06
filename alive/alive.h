@@ -44,6 +44,7 @@ protected:
   std::string name;
  /*For tracking the hit point. */
   int hit_point;
+ bool dbg = false;
 
 };
 
