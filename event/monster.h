@@ -40,7 +40,7 @@ private:
  */
 class goblin final : public monster {
 public:
-  goblin(map* m) : monster("goblin",new craw(),15,m) {
+  goblin(map* m) : monster("goblin",new craw(),25,m) {
   };
   ~goblin() override {};
   // alive: $
@@ -53,7 +53,7 @@ public:
 
 class lakshmikanta final : public monster{
 public:
-  lakshmikanta(map* p): monster("lakshmikanta",new magic(),20,p) {
+  lakshmikanta(map* p): monster("lakshmikanta",new magic(),30,p) {
   }
   ~lakshmikanta()override {};
   // alive: ~

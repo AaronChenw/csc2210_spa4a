@@ -11,7 +11,7 @@
 // Battle menu
 void monster::interaction(player* p) {
   if (this->is_dead()) {
-    std::cout << "You see a " << name <<"corpse. " << std::endl;
+    std::cout << "You see a " << name <<" corpse. " << std::endl;
   }else {
     std::cout << "You see a " << name <<". " << std::endl;
     std::string inp1;
