@@ -22,7 +22,7 @@ public:
   virtual void benefit_player(player* p)=0;
 protected:
   // For debugging.
-  bool dbg = false;
+  bool dbg_item = false;
 
 };
 
@@ -42,7 +42,7 @@ public:
    *Init the medicine with the gained hit point.
    */
   medicine():eff(40) {
-    if (dbg) {
+    if (dbg_item) {
       std::cout << "Medicine add 40 hp. "<<std:: endl;
     }
   };

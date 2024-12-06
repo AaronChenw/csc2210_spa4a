@@ -16,6 +16,10 @@ std::string melee::get_weapon_type() {
 }
 
 int melee::get_ap(weapon *w) const {
+  if (w == nullptr) {
+    std::cout << "No weapon equiped!" << std::endl;
+    return 0;
+  }
   int r1 = 0;
   if (w->get_weapon_type() == "melee") {
     r1 = ap;
@@ -33,6 +37,10 @@ std::string long_range::get_weapon_type() {
 }
 
 int long_range::get_ap(weapon *w) const {
+  if (w == nullptr) {
+    std::cout << "No weapon equiped!" << std::endl;
+    return 0;
+  }
   int r1 = 0;
   if (w->get_weapon_type() == "melee") {
     r1 = ap;

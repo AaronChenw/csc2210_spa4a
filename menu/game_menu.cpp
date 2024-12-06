@@ -33,7 +33,7 @@ void game_menu::menu_loop() {
   }
 };
 void game_menu::menu_opts(const std::string &s){
-  if (dbg) {
+  if (dbg_menu) {
     cout << "game menu: menu opt" << endl;
   }
   if (s == "status") {

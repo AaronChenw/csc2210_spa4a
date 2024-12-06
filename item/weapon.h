@@ -21,7 +21,7 @@ public:
    */
   weapon(const int a): ap(a){};
  ~weapon() {
-  if (dbg) {
+  if (dbg_item) {
    std::cout << "Weapon" << name << " erased. " <<std:: endl;
   }
   name.erase();

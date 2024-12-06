@@ -59,7 +59,7 @@ void map::map_generator() {
 }
 
 void map::print_map() const {
-  if (dbg) {
+  if (dbg_map) {
     std::cout << "map size: "  << "col_num: " << col_num << ", row: "<< row_num << std::endl;
   }
   for (int i = 0; i < row_num;i++) {
@@ -75,7 +75,7 @@ void map::print_map() const {
 }
 
 void map::go_s(player* gg) {
-  if (dbg) {
+  if (dbg_map) {
     std::cout << "Origin: " << "x: "<<xx << " y: " << yy << std::endl;
   }
   if (map::is_valid(xx,yy + 1)) {
@@ -86,7 +86,7 @@ void map::go_s(player* gg) {
   }
 }
 void map::go_n(player* gg) {
-  if (dbg) {
+  if (dbg_map) {
     std::cout << "Origin: " << "x: "<<xx << " y: " << yy << std::endl;
   }
   if (map::is_valid(xx,yy - 1)) {
@@ -97,7 +97,7 @@ void map::go_n(player* gg) {
   }
 }
 void map::go_e(player* gg) {
-  if (dbg) {
+  if (dbg_map) {
     std::cout << "Origin: " << "x: "<<xx << " y: " << yy << std::endl;
   }
   if (map::is_valid(xx + 1,yy)) {
@@ -108,7 +108,7 @@ void map::go_e(player* gg) {
   }
 }
 void map::go_w(player* gg) {
-  if (dbg) {
+  if (dbg_map) {
     std::cout << "Origin: " << "x: "<<xx << " y: " << yy << std::endl;
   }
   if (map::is_valid(xx - 1,yy)) {
@@ -120,7 +120,7 @@ void map::go_w(player* gg) {
 
 }
 bool map::is_valid(int x, int y) const{
-  if (dbg) {
+  if (dbg_map) {
     std::cout << "Next: " << "x: "<<xx << " y: " << yy << std::endl;
   }
   return y < row_num && y >= 0 && x < col_num && x >= 0 && (*(*(c+y)+x))->can_go();
@@ -129,7 +129,7 @@ bool map::is_valid(int x, int y) const{
 void map::monster_dies()  {
 
   monster_num--;
-  if (dbg) {
+  if (dbg_map) {
     std::cout << "Monster num: "  << monster_num << std::endl;
   }
 }

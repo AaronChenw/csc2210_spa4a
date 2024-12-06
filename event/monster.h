@@ -15,7 +15,11 @@ class map;
 
 class monster : public event, public alive{
 public:
-  monster(const std::string& name,weapon* w,int hp,map* m):alive(name,hp),w{w},ma{m} {};
+  monster(const std::string& name,weapon* w,int hp,map* m):alive(name,hp),w{w},ma{m} {
+    if (dbg_life) {
+      std::cout << "Monster ";
+    }
+  };
   ~monster() override {
     delete w;
   }
@@ -43,6 +47,9 @@ private:
 class goblin final : public monster {
 public:
   goblin(map* m) : monster("goblin",new craw(),25,m) {
+    if (dbg_life) {
+      std::cout << "goblin created" << std::endl;
+    }
   };
   ~goblin() override {};
   // alive: $
@@ -56,6 +63,9 @@ public:
 class lakshmikanta final : public monster{
 public:
   lakshmikanta(map* p): monster("lakshmikanta",new magic(),30,p) {
+    if (dbg_life) {
+      std::cout << "lakshmikanta created" << std::endl;
+    }
   }
   ~lakshmikanta()override {};
   // alive: ~

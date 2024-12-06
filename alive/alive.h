@@ -15,7 +15,7 @@ class alive {
 public:
   alive(const std::string &nn, int hp):name(nn),hit_point(hp){}
   ~alive() {
-   if (dbg) {
+   if (dbg_life) {
     std::cout << "alive " << name << " erased. " <<std:: endl;
    }
    name.erase();
@@ -47,7 +47,7 @@ protected:
   std::string name;
  /*For tracking the hit point. */
   int hit_point;
- bool dbg = false;
+ bool dbg_life = false;
 
 };
 

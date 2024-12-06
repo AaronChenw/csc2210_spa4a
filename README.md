@@ -13,3 +13,9 @@ Building Process:
 
 The key that make the executable file runnable:
 set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -static")
+
+Debugging Enable:
+1 alive.h, set attribute dbg_life to true. 
+2 item.h, set attribute dbg_item to true.
+3 event.h, set attribute dbg to true.
+4 menu.h,  set attribute dbg_events to true.

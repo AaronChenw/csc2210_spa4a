@@ -21,7 +21,7 @@ public:
   // default contains nothing but a sentence.
   virtual void interaction(player* p);
 protected:
-
+bool dbg_events = false;
 };
 
 #endif //EVENT_H
@@ -31,7 +31,12 @@ protected:
 // Responsible for hazard, -10 hp, won't disappear or die.
 class hazard : public event{
 public:
-  hazard():event() {};
+  hazard():event() {
+    if (dbg_events) {
+      std::cout << "hazard created" << std::endl;
+    }
+
+  };
   // Show @
   void show_on_map() override;
   void interaction(player* p) override;
@@ -46,7 +51,11 @@ protected:
 
 class wall :public event{
 public:
-  wall(): event() {};
+  wall(): event() {
+    if (dbg_events) {
+      std::cout << "wall created" << std::endl;
+    }
+  };
   // Show !
   void show_on_map() override;
   bool can_go() override {return false;};

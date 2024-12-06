@@ -29,7 +29,7 @@ public:
 
  protected:
  // For debug the menu.
-  bool dbg = false;
+  bool dbg_menu = false;
 };
 
 

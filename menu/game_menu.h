@@ -29,12 +29,12 @@ public:
    */
   ~game_menu() override {
     delete g1;
-    if (dbg) {
+    if (dbg_menu) {
       std::cout << "Game deleted!";
     }
 
     delete m;
-    if (dbg) {
+    if (dbg_menu) {
       std::cout << "map deleted!";
     }
   };
