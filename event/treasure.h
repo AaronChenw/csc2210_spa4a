@@ -10,6 +10,7 @@
 
 // class item;
 class player;
+// treasure, player can pick items from them.
 class treasure : public event{
 public:
   bool can_go() override;
@@ -22,7 +23,7 @@ protected:
 
 #ifndef ARROW_TREASURE_H
 #define ARROW_TREASURE_H
-
+// Contain arrow.
 class arrow_treasure: public treasure {
 public:
   arrow_treasure() {
@@ -44,7 +45,7 @@ public:
 #define MEDICINE_TREASURE_H
 
 
-
+// Contain medicine
 class medicine_treasure : public treasure{
 public:
   medicine_treasure():treasure() {
@@ -64,7 +65,7 @@ public:
 
 #ifndef SWORD_TREASURE_H
 #define SWORD_TREASURE_H
-
+// Contain sword
 class sword_treasure final : public treasure{
 public:
   sword_treasure():treasure() {

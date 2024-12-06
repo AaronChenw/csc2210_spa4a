@@ -8,7 +8,7 @@
 #include <iostream>
 
 class player;
-
+// Responsible for the default event, empty floor.
 class event {
 public:
   virtual ~event() = default;
@@ -28,7 +28,7 @@ protected:
 
 #ifndef HAZARD_H
 #define HAZARD_H
-
+// Responsible for hazard, -10 hp, won't disappear or die.
 class hazard : public event{
 public:
   hazard():event() {};

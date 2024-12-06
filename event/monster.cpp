@@ -54,10 +54,11 @@ void monster::interaction(player* p) {
     }
   }
 }
-
+// Return the weapon of the monster.
 weapon * monster::get_weapon() const {
   return w;
 }
+// Show hint
 void monster::menu_describe() {
   std::cout << "Type \"help\" for hint"<< std::endl;
   std::cout << "Please enter \"flee\" to flee!" << std::endl;
@@ -66,6 +67,7 @@ void monster::menu_describe() {
 
 
 };
+// Show $ when its alive.
 void goblin::show_on_map() {
   if (this->is_dead()) {
     std::cout << '#';
@@ -73,7 +75,7 @@ void goblin::show_on_map() {
     std::cout << '$';
   }
 }
-
+// Show ~ when its alive.
 void lakshmikanta::show_on_map() {
   if (this->is_dead()) {
     std::cout << '#';

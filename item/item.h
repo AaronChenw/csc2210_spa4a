@@ -31,7 +31,7 @@ public:
 #define MEDICINE_H
 
 /*
- * The medicine will gain player's hhit point.
+ * The medicine will gain player's hit point.
  */
 class medicine final :public item{
 public:
