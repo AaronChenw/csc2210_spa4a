@@ -24,10 +24,15 @@ void monster::interaction(player* p) {
         break;
       }
       if (inp1 == "a") {
-        int player_ap = p->get_weapon()->get_ap(this->get_weapon());
-        this->get_hit(player_ap);
+        weapon*wp = p->get_weapon();
+        if (wp == nullptr) {
+          std::cout << "No weapon equiped!" << std::endl;
+        }else {
+          int player_ap = wp->get_ap(this->get_weapon());
+          this->get_hit(player_ap);
+          std::cout << " You cause "  << name << " lost "<< player_ap << "HP. "<< std::endl;
+        }
         int monster_ap =  this->get_weapon()->get_ap(p->get_weapon());
-        std::cout << " You cause "  << name << " lost "<< player_ap << "HP. "<< std::endl;
         p->get_hit(monster_ap);
         std::cout << name << " fight back with magic and cause you lost " << monster_ap << " HP. " << std::endl;
       }
@@ -56,7 +61,12 @@ void monster::interaction(player* p) {
 }
 // Return the weapon of the monster.
 weapon * monster::get_weapon() const {
-  return w;
+  if (w == nullptr) {
+    return nullptr;
+  }else {
+    return w;
+  }
+
 }
 // Show hint
 void monster::menu_describe() {

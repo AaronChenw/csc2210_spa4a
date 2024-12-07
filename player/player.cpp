@@ -21,7 +21,12 @@ void player::set_weapon(weapon* wp) {
 }
 
 weapon * player::get_weapon() const {
-  return w;
+  if (w == nullptr) {
+    // No weapon
+    return nullptr;
+  }else {
+    return w;
+  }
 }
 
 void player::print_status() const {

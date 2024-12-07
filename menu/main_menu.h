@@ -13,7 +13,9 @@
 class main_menu final : menu{
 public:
   main_menu()= default;
-  ~main_menu() override {} ;
+  ~main_menu() override {
+    delete gm1;
+  } ;
   /*
  * Print the descriptions on the terminal.
  */

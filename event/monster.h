@@ -28,7 +28,7 @@ public:
   weapon* get_weapon() const override;
 
 protected:
-  weapon* w;
+  weapon* w = nullptr;
   map* ma;
 private:
   static void menu_describe();

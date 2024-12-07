@@ -14,6 +14,7 @@ void game_menu::menu_describe() {
   std::cout << "^: medicine treasure, =: arrow treasure, #: empty, +: player" << std::endl;
   std::cout << "When a new weapon is picked, the old one will be replaced." << std::endl;
   std::cout << "Kill all the monster to win the game!." << std::endl;
+  cout << "When opponent does not have weapon, the attack point doubled! "<< endl;
 };
 void game_menu::menu_loop() {
   string inp1;
@@ -57,6 +58,5 @@ void game_menu::menu_opts(const std::string &s){
   cout << "Type 'e' to go east, 's' to go south, 'w' to go west, 'n' to go north." << endl;
   cout << "Type \"help\" for hint"<< endl;
   cout << "Type \"map hint\" for map help."<< endl;
-
 
 };
